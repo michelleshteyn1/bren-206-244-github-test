@@ -1,5 +1,6 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "ED216B GitHub Testing"
+name: "Michelle Shteyn"
 output: html_document
 ---
 
